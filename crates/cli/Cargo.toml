@@ -1,0 +1,16 @@
+[package]
+name = "jupwrap-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+jupwrap-core.workspace = true
+jupwrap.workspace = true
+
+[dev-dependencies]
+
+
+[[bin]]
+name = "jupwrap-cli"
+path = "src/main.rs"

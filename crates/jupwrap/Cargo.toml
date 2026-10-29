@@ -1,0 +1,13 @@
+[package]
+name = "jupwrap"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+jupwrap-core.workspace = true
+jupwrap-solve.workspace = true
+jupwrap-tiling.workspace = true
+
+[dev-dependencies]
+

@@ -1,0 +1,11 @@
+{
+ "n_cases": 29,
+ "defo_ref_mean_gap": 0.01990703113251195,
+ "defo_ref_max_gap": 0.10154076610314573,
+ "defo_mean_gap_limit": 0.03,
+ "defo_max_gap_limit": 0.1515,
+ "plateau_ref_mean_gap": 0.07372838098313886,
+ "plateau_ref_max_gap": 0.18589511754068716,
+ "plateau_mean_gap_limit": 0.1106,
+ "plateau_max_gap_limit": 0.2359
+}

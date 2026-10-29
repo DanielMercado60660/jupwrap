@@ -1,0 +1,20 @@
+[package]
+name = "jupwrap-tiling"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+jupwrap-core.workspace = true
+jupwrap-grid.workspace = true
+jupwrap-mcf.workspace = true
+jupwrap-nonconvex.workspace = true
+jupwrap-costs.workspace = true
+jupwrap-init.workspace = true
+jupwrap-conncomp.workspace = true
+jupwrap-solve.workspace = true
+rayon.workspace = true
+
+[dev-dependencies]
+jupwrap-testkit.workspace = true
+serde_json.workspace = true

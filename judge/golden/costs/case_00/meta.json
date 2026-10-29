@@ -1,0 +1,13 @@
+{
+ "nrow": 40,
+ "ncol": 50,
+ "mode": "smooth",
+ "nlooks": 9.0,
+ "window": [
+  7,
+  7
+ ],
+ "sigma2_signal": 0.02,
+ "p_discontinuity": 0.0001,
+ "masked": false
+}

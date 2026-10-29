@@ -1,0 +1,7 @@
+{
+ "n_nodes": 5,
+ "n_arcs": 8,
+ "status": "infeasible",
+ "opt_cost": null,
+ "kind": "infeasible"
+}

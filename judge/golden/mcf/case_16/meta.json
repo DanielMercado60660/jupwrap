@@ -1,0 +1,7 @@
+{
+ "n_nodes": 80,
+ "n_arcs": 300,
+ "status": "optimal",
+ "opt_cost": 6580,
+ "kind": "ties"
+}

@@ -1,0 +1,13 @@
+{
+ "nrow": 33,
+ "ncol": 47,
+ "mode": "defo",
+ "nlooks": 4.0,
+ "window": [
+  5,
+  9
+ ],
+ "sigma2_signal": 0.02,
+ "p_discontinuity": 0.0001,
+ "masked": true
+}

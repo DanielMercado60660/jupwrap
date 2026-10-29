@@ -1,0 +1,9 @@
+{
+ "nrow": 10,
+ "ncol": 10,
+ "kind": "defo",
+ "opt_cost": 8114,
+ "start_cost": 8486,
+ "ref_cost": 8230,
+ "ref_seconds": 0.37
+}

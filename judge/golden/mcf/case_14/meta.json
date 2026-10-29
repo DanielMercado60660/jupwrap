@@ -1,0 +1,7 @@
+{
+ "n_nodes": 7,
+ "n_arcs": 29,
+ "status": "optimal",
+ "opt_cost": -25,
+ "kind": "selfloop_parallel"
+}

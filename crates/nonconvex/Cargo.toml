@@ -1,0 +1,12 @@
+[package]
+name = "jupwrap-nonconvex"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+jupwrap-core.workspace = true
+
+[dev-dependencies]
+jupwrap-testkit.workspace = true
+serde_json.workspace = true

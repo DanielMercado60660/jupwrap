@@ -1,0 +1,15 @@
+# Python extension module, built only with maturin.
+[package]
+name = "jupwrap-py"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[lib]
+name = "_jupwrap"
+crate-type = ["cdylib"]
+
+[dependencies]
+jupwrap-core.workspace = true
+jupwrap.workspace = true
+pyo3.workspace = true

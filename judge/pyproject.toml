@@ -1,0 +1,21 @@
+[project]
+name = "insar-unwrap-judge"
+version = "0.1.0"
+description = "Tests and reference implementations for the clean-room SCF phase unwrapper"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy",
+    "scipy",
+    "networkx",
+    "ortools",
+    "matplotlib",
+    "pytest",
+    "maturin",
+    "ruff",
+]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+addopts = "-p no:cacheprovider"

@@ -1,0 +1,7 @@
+{
+ "n_nodes": 11782,
+ "n_arcs": 23780,
+ "status": "optimal",
+ "opt_cost": 50991,
+ "kind": "grid_stat"
+}

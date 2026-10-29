@@ -1,0 +1,9 @@
+{
+ "nrow": 8,
+ "ncol": 8,
+ "kind": "plateau",
+ "opt_cost": 8615,
+ "start_cost": 9901,
+ "ref_cost": 8672,
+ "ref_seconds": 0.0
+}

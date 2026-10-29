@@ -1,0 +1,7 @@
+{
+ "n_nodes": 200,
+ "n_arcs": 900,
+ "status": "optimal",
+ "opt_cost": -12154,
+ "kind": "random"
+}

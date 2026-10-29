@@ -1,0 +1,8 @@
+{
+ "nrow": 40,
+ "ncol": 1,
+ "thresh": 300,
+ "min_size": 1,
+ "n_components": 1,
+ "masked": false
+}

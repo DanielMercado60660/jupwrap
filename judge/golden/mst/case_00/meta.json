@@ -1,0 +1,8 @@
+{
+ "nrow": 1,
+ "ncol": 7,
+ "mode": "smooth",
+ "masked": false,
+ "mst_weight": 0,
+ "n_residues": 0
+}

@@ -1,0 +1,7 @@
+{
+ "n_nodes": 6,
+ "n_arcs": 15,
+ "status": "optimal",
+ "opt_cost": -516,
+ "kind": "circulation"
+}

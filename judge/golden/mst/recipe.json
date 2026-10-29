@@ -1,0 +1,9 @@
+{
+ "nrow": 1024,
+ "ncol": 1024,
+ "seed": 21,
+ "B": 4,
+ "resid_permille": 30,
+ "mst_weight": 559830373,
+ "time_limit_s": 20.0
+}

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["maturin>=1.5,<2"]
+build-backend = "maturin"
+
+[project]
+name = "jupwrap"
+version = "0.1.0"
+description = "Clean-room statistical-cost network-flow phase unwrapper (Apache-2.0), snaphu-py compatible unwrap()"
+license = { text = "Apache-2.0" }
+requires-python = ">=3.10"
+dependencies = ["numpy"]
+
+[tool.maturin]
+python-source = "python"
+module-name = "jupwrap._jupwrap"
+features = ["pyo3/extension-module"]

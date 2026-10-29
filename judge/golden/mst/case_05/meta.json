@@ -1,0 +1,8 @@
+{
+ "nrow": 50,
+ "ncol": 60,
+ "mode": "defo",
+ "masked": true,
+ "mst_weight": 310870,
+ "n_residues": 349
+}

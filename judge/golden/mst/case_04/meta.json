@@ -1,0 +1,8 @@
+{
+ "nrow": 50,
+ "ncol": 60,
+ "mode": "smooth",
+ "masked": false,
+ "mst_weight": 911488,
+ "n_residues": 290
+}
